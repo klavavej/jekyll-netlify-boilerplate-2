@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Welcome - test commit from GH
+title: Welcome - test with flag
 permalink: /
 section: home
 intro_paragraph: >
