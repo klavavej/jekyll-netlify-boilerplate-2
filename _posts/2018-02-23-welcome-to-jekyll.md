@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Welcome to Jekyll!!!!! :) yo 2/12/19 branch
+title: Welcome to Jekyll!!!!! :) direct edit
 author: dan_urbanowicz
 date: '2018-07-03 12:00:00'
 categories: misc
