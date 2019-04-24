@@ -8,7 +8,11 @@
 [[headers]]
   for = "/assets/test.js"
   [headers.values]
-    cache-control = "max-age=0,no-cache,no-store,must-revalidate"
+    cache-control = '''
+    max-age=0,  \
+    no-cache, \
+    no-store, \
+    must-revalidate'''
 
 # REDIRECT and HEADERS examples.
 # Uncomment to use. Directives in this file will ALWAYS override any identical
