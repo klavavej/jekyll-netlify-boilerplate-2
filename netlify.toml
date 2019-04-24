@@ -9,9 +9,9 @@
   for = "/assets/test.js"
   [headers.values]
     cache-control = '''
-    max-age=0,  \
-    no-cache, \
-    no-store, \
+    max-age=0,
+    no-cache,
+    no-store,
     must-revalidate'''
 
 # REDIRECT and HEADERS examples.
