@@ -1,5 +1,2 @@
 /assets/test.js
-  cache-control: max-age=0,
-  cache-control: no-cache,
-  cache-control: no-store,
-  cache-control: must-revalidate
+    cache-control: max-age=0,no-cache,no-store,must-revalidate
