@@ -29,9 +29,11 @@
 # Headers rule example
 # For more information see:- https://www.netlify.com/docs/netlify-toml-reference/
 
-#[[headers]]
-#   Define which paths this specific [[headers]] block will cover.
-#   for = "/*"
+[[headers]]
+  for = "/*"
+  [headers.values]
+    Content-Type = "application/json"
+    X-Content-Type-Options = "nosniff"
 
 #[headers.values]
 #   X-Frame-Options = "DENY"
