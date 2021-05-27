@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Welcome - test again without flag
+title: Welcome - test again without flag test
 permalink: /
 section: home
 intro_paragraph: >
