@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The most recent post so far!!!! YOLO
+title: The most recent post so far!!!! YOLO :)
 author: john_doe
 date: '2018-07-19 10:07:32'
 intro_paragraph: ''
